@@ -21,12 +21,3 @@ augment the robots’ gaits.
 ```
 python3 Fungi_signal_analysis.py
 ```
-
-```
-  title={Sensorimotor Control of Robots Mediated by Fungal Mycelia},
-  author={Anand Kumar Mishra, Jaeseok Kim, Hannah Baghdadi, Bruce R. Johnson, Kathie T. Hodge, Robert F. Shepherd},
-  journal={Science Robotics},
-  year={2024},
-  publisher={Science}
-}
-```
